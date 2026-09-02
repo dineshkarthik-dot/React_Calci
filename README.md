@@ -1,7 +1,7 @@
 # Ex04 Simple Calculator - React Project
 ## Date:17-08-2026
-## Name : Manga Muni Sree Ram
-## Reg No : 212225040223
+## Name : DINESH KARTHIK T D
+## Reg No : 212225040081
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
